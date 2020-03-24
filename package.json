@@ -1,0 +1,23 @@
+{
+    "name": "night-code",
+    "displayName": "Night Code",
+    "publisher": "brunofow",
+    "description": "A simple dark theme",
+    "version": "0.2.0",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Code-color-theme.json"
+            }
+        ]
+    }
+}
