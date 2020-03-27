@@ -8,6 +8,8 @@
 		"activityBarBadge.foreground": "#260f35",
 		"activityBar.activeBackground": "#260f35",
 		"activityBar.background": "#260f35",
+		"statusBar.background": "#260f35",
+		"statusBar.foreground": "#ccdbdc",
 		"sideBar.background": "#13021d",
 		"sideBarTitle.foreground": "#ccdbdc",
 		"button.background": "#260f35",

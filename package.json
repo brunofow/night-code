@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://github.com/brunofow/night-code/blob/master/images/icon.png?raw=true",
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
@@ -22,6 +22,6 @@
     },
     "repository": {
         "type": "git",
-        "url": 
+        "url": "https://github.com/brunofow/night-code"
     }
 }
